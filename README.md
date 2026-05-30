@@ -14,49 +14,6 @@
 
 # 👨‍💻 About Me
 
-```javascript
-const developer = {
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Vue",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "NestJS",
-        "Laravel",
-        "Spring Boot"
-    ],
-
-    mobile: [
-        "Flutter",
-        "Dart"
-    ],
-
-    database: [
-        "PostgreSQL",
-        "MySQL",
-        "Supabase",
-        "Firebase",
-        "Serverless Databases"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Figma",
-        "CircuitVerse"
-    ],
-
-    motto: "If it works, don't touch it."
-};
-```
 
 🚀 I am a student developer passionate about building modern, scalable, and maintainable applications.
 
