@@ -189,14 +189,23 @@ A secure authentication system implementing Google OAuth login, JWT authenticati
 
 ---
 
-## 🔌 Digital Logic & Circuit Design
+## ☁️ DevOps & Cloud
 
-Digital system simulations and logic-based designs built using CircuitVerse to explore computer architecture and logic behavior.
+<div align="center">
 
-**Tech Stack:**
-`CircuitVerse` `Digital Logic Design`
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,githubactions" />
 
----
+</div>
+
+<br/>
+
+* 🐳 Containerization with Docker
+* ⚙️ CI/CD workflows using GitHub Actions
+* 🌐 Web server & reverse proxy configuration with Nginx
+* 🐧 Linux server environment and command-line workflows
+* ☁️ Exploring cloud deployment and scalable infrastructure
+* 📦 Learning container orchestration and deployment strategies
+
 
 # 📊 GitHub Stats
 
