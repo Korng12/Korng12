@@ -113,39 +113,87 @@ I also enjoy working with digital logic systems and circuit simulation using Cir
 
 ## 🎬 Movie Streaming Website
 
-A responsive movie platform with dynamic sections, modern layouts, and interactive UI components.
+A responsive movie platform featuring dynamic sections, interactive UI components, modern layouts, and smooth browsing experience.
 
 **Tech Stack:**
 `JavaScript` `Tailwind CSS` `HTML` `CSS`
 
 ---
 
-## 🛍️ Flutter Computer Shop Application
+## 🛍️ Computer Shop E-Commerce Platform
 
-A modern mobile e-commerce application focused on clean architecture and maintainable state management.
+A full-stack e-commerce platform with product management, authentication, shopping cart, and responsive modern UI.
+
+**Tech Stack:**
+`Vue.js` `Tailwind CSS` `Express.js` `MySQL`
+
+**Features:**
+
+* User authentication
+* Product browsing
+* Cart system
+* Responsive interface
+* Backend API integration
+
+---
+
+## 📱 Flutter Computer Shop Application
+
+A modern mobile e-commerce application focused on clean architecture, maintainable code structure, and scalable state management.
 
 **Tech Stack:**
 `Flutter` `Dart`
 
 ---
 
-## 🚦 Traffic Light Controller Simulation
+## 🎤 Conference Session Management System
 
-A logic-based traffic simulation system implementing real-time state transitions and digital control behavior using CircuitVerse.
+A conference management platform designed to organize sessions, speakers, schedules, and attendee workflows.
 
 **Tech Stack:**
-`CircuitVerse` `Digital Logic Design`
+`Spring Boot` `MySQL`
+
+**Features:**
+
+* Session scheduling
+* Speaker management
+* Database relationship design
+* RESTful backend architecture
+
+---
+
+## 🎓 Student Job Portal
+
+A web platform connecting students with internship and job opportunities through a centralized portal system.
+
+**Tech Stack:**
+`Vue.js` `Node.js` `Express.js` `MySQL`
+
+**Features:**
+
+* Student authentication
+* Job posting system
+* Application management
+* Responsive dashboard UI
 
 ---
 
 ## 🔐 Authentication System with Google OAuth
 
-A secure authentication flow implementing OAuth login, token handling, and backend session management.
+A secure authentication flow implementing OAuth login, token handling, session management, and third-party identity integration.
 
 **Tech Stack:**
 `Node.js` `Express.js` `PostgreSQL`
 
 ---
+
+## 🔌 Digital Logic & Circuit Design
+
+Digital system simulations and logic-based designs built using CircuitVerse to explore computer architecture and logic behavior.
+
+**Tech Stack:**
+`CircuitVerse` `Digital Logic Design`
+
 
 # 📊 GitHub Stats
 
