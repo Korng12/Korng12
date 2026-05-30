@@ -12,20 +12,46 @@
 
 ---
 
-# 👨‍💻 About Me
-
-```javascript id="5rqv4t"
+👨‍💻 About Me
 const developer = {
-    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-    
-    backend: ["Node.js", "Express.js"],
-    
-    mobile: ["Flutter", "Dart"],
-    
-    database: ["PostgreSQL", "MySQL"],
-    
-    tools: ["Git", "GitHub", "Figma", "CircuitVerse"],
-    
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "Laravel",
+        "Spring Boot"
+    ],
+
+    mobile: [
+        "Flutter",
+        "Dart"
+    ],
+
+    database: [
+        "PostgreSQL",
+        "MySQL",
+        "Supabase",
+        "Firebase",
+        "Serverless Databases"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Figma",
+        "CircuitVerse"
+    ],
+
     motto: "If it works, don't touch it."
 };
 ```
