@@ -12,20 +12,21 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-```javascript
+```javascript id="5rqv4t"
 const developer = {
-    code: ["HTML", "CSS", "JavaScript", "Node.js", "Flutter"],
+    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
     
-    motto: "If it works, don't touch it.",
+    backend: ["Node.js", "Express.js"],
     
-    currentFocus: [
-        "Backend Architecture",
-        "System Design",
-        "Responsive UI",
-        "Scalable Applications"
-    ]
+    mobile: ["Flutter", "Dart"],
+    
+    database: ["PostgreSQL", "MySQL"],
+    
+    tools: ["Git", "GitHub", "Figma", "CircuitVerse"],
+    
+    motto: "If it works, don't touch it."
 };
 ```
 
@@ -33,15 +34,65 @@ const developer = {
 
 My journey started with frontend development and gradually expanded into backend engineering, database architecture, and system design concepts.
 
-I enjoy understanding how systems communicate, how data flows efficiently, and how to design applications that remain maintainable and scalable as they grow.
+I also enjoy working with digital logic systems and circuit simulation using CircuitVerse.
 
 ---
 
 # 🛠️ Tech Stack
 
+## 🎨 Frontend Development
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,flutter,dart,postgres,mysql,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</div>
+
+---
+
+## 💾 Database Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</div>
+
+---
+
+## 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</div>
+
+---
+
+## 🔧 Tools & Design
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CircuitVerse-Digital%20Logic%20Design-blue?style=for-the-badge" />
 
 </div>
 
@@ -53,7 +104,8 @@ I enjoy understanding how systems communicate, how data flows efficiently, and h
 * ⚙️ Exploring REST API optimization
 * 🧠 Studying system design fundamentals
 * 📱 Building structured Flutter applications
-* 🎨 Improving modern responsive UI design
+* 🎨 Improving responsive UI design
+* 🔌 Designing digital logic systems using CircuitVerse
 
 ---
 
@@ -79,10 +131,10 @@ A modern mobile e-commerce application focused on clean architecture and maintai
 
 ## 🚦 Traffic Light Controller Simulation
 
-A logic-based traffic simulation system implementing real-time state transitions and digital control behavior.
+A logic-based traffic simulation system implementing real-time state transitions and digital control behavior using CircuitVerse.
 
 **Tech Stack:**
-`JavaScript` `CSS`
+`CircuitVerse` `Digital Logic Design`
 
 ---
 
