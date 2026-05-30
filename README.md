@@ -64,65 +64,12 @@ I also enjoy working with digital logic systems and circuit simulation using Cir
 
 ---
 
-# 🛠️ Tech Stack
-
-## 🎨 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-
-</div>
-
----
-
-## ⚙️ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</div>
-
----
-
-## 💾 Database Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-</div>
-
----
-
-## 📱 Mobile Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-</div>
-
----
-
-## 🔧 Tools & Design
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CircuitVerse-Digital%20Logic%20Design-blue?style=for-the-badge" />
-
-</div>
-
----
+🛠️ Tech Stack
+🎨 Frontend Development
+⚙️ Backend Development
+💾 Database & Cloud
+📱 Mobile Development
+🔧 Tools & Design
 
 # 🎯 Current Focus
 
