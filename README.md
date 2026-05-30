@@ -1,16 +1,11 @@
-# Hello 👋
+# Hi there, I'm [Your Name] 👋 
 
 ```javascript
-if (codeWorks) {
-    dontTouchIt();
-}
-```
-
-## About Me
-
-I'm a student developer passionate about building modern and responsive applications.
-Currently focused on frontend development, Flutter, backend fundamentals, and system design.
-
+const developer = {
+    code: ["HTML", "CSS", "JS", "Node.js", "Flutter"],
+    status: "If it works, don't touch it. If it doesn't, refactor until it does.",
+    currentFocus: ["Scalable Backends", "System Design Architecture"]
+};
 ## Tech Stack
 
 ### Frontend
