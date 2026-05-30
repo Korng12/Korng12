@@ -2,7 +2,7 @@
 
 # Hi there, I'm Your Name 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+Developer;Frontend+%26+Flutter+Enthusiast;Backend+Architecture+Learner;Building+Modern+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Student+Developer;Frontend+%26+Backend+Enthusiast;Flutter+Developer;System+Design+Learner;Building+Modern+Scalable+Applications" />
 
 <br/>
 
@@ -12,7 +12,9 @@
 
 ---
 
-👨‍💻 About Me
+# 👨‍💻 About Me
+
+```javascript
 const developer = {
     frontend: [
         "HTML",
@@ -56,29 +58,91 @@ const developer = {
 };
 ```
 
-🚀 I am a student developer passionate about building modern, responsive, and scalable applications.
+🚀 I am a student developer passionate about building modern, scalable, and maintainable applications.
 
 My journey started with frontend development and gradually expanded into backend engineering, database architecture, and system design concepts.
 
-I also enjoy working with digital logic systems and circuit simulation using CircuitVerse.
+I enjoy designing responsive user experiences, building structured backend systems, and understanding how modern large-scale applications work behind the scenes.
 
 ---
 
-🛠️ Tech Stack
-🎨 Frontend Development
-⚙️ Backend Development
-💾 Database & Cloud
-📱 Mobile Development
-🔧 Tools & Design
+# 🛠️ Tech Stack
+
+## 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vite" />
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring" />
+
+</div>
+
+---
+
+## 💾 Database & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Serverless%20Databases-Modern%20Cloud%20Architecture-blueviolet?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</div>
+
+---
+
+## 🔧 Tools & Design
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CircuitVerse-Digital%20Logic%20Design-blue?style=for-the-badge" />
+
+</div>
+
+---
 
 # 🎯 Current Focus
 
 * 📚 Learning scalable backend architecture
 * ⚙️ Exploring REST API optimization
 * 🧠 Studying system design fundamentals
+* ☁️ Understanding cloud & serverless systems
 * 📱 Building structured Flutter applications
-* 🎨 Improving responsive UI design
-* 🔌 Designing digital logic systems using CircuitVerse
+* 🎨 Improving responsive frontend UI/UX
+* 🔌 Designing digital systems using CircuitVerse
 
 ---
 
@@ -86,33 +150,33 @@ I also enjoy working with digital logic systems and circuit simulation using Cir
 
 ## 🎬 Movie Streaming Website
 
-A responsive movie platform featuring dynamic sections, interactive UI components, modern layouts, and smooth browsing experience.
+A modern movie streaming platform featuring dynamic sections, responsive layouts, interactive UI components, and seamless browsing experience.
 
 **Tech Stack:**
-`JavaScript` `Tailwind CSS` `HTML` `CSS`
+`Vue.js` `JavaScript` `Tailwind CSS` `HTML` `CSS`
 
 ---
 
 ## 🛍️ Computer Shop E-Commerce Platform
 
-A full-stack e-commerce platform with product management, authentication, shopping cart, and responsive modern UI.
+A full-stack e-commerce platform with authentication, product management, shopping cart functionality, and responsive modern UI.
 
 **Tech Stack:**
-`Vue.js` `Tailwind CSS` `Express.js` `MySQL`
+`Vue.js` `Express.js` `MySQL` `Tailwind CSS`
 
 **Features:**
 
 * User authentication
 * Product browsing
-* Cart system
-* Responsive interface
-* Backend API integration
+* Shopping cart system
+* Responsive UI
+* REST API integration
 
 ---
 
 ## 📱 Flutter Computer Shop Application
 
-A modern mobile e-commerce application focused on clean architecture, maintainable code structure, and scalable state management.
+A modern mobile e-commerce application focused on clean architecture, scalable state management, and maintainable code structure.
 
 **Tech Stack:**
 `Flutter` `Dart`
@@ -121,7 +185,7 @@ A modern mobile e-commerce application focused on clean architecture, maintainab
 
 ## 🎤 Conference Session Management System
 
-A conference management platform designed to organize sessions, speakers, schedules, and attendee workflows.
+A conference management platform designed for organizing sessions, speakers, schedules, and attendee workflows.
 
 **Tech Stack:**
 `Spring Boot` `MySQL`
@@ -130,14 +194,14 @@ A conference management platform designed to organize sessions, speakers, schedu
 
 * Session scheduling
 * Speaker management
-* Database relationship design
+* Relational database design
 * RESTful backend architecture
 
 ---
 
 ## 🎓 Student Job Portal
 
-A web platform connecting students with internship and job opportunities through a centralized portal system.
+A centralized web platform connecting students with internship and job opportunities through a modern dashboard interface.
 
 **Tech Stack:**
 `Vue.js` `Node.js` `Express.js` `MySQL`
@@ -151,12 +215,20 @@ A web platform connecting students with internship and job opportunities through
 
 ---
 
-## 🔐 Authentication System with Google OAuth
+## 🔐 Google OAuth Authentication System
 
-A secure authentication flow implementing OAuth login, token handling, session management, and third-party identity integration.
+A secure authentication system implementing Google OAuth login, JWT authentication, session handling, and protected API routes.
 
 **Tech Stack:**
-`Node.js` `Express.js` `PostgreSQL`
+`NestJS` `Vue.js` `PostgreSQL`
+
+**Features:**
+
+* Google OAuth integration
+* JWT authentication
+* Secure backend API
+* Frontend authentication flow
+* Protected route management
 
 ---
 
@@ -167,6 +239,7 @@ Digital system simulations and logic-based designs built using CircuitVerse to e
 **Tech Stack:**
 `CircuitVerse` `Digital Logic Design`
 
+---
 
 # 📊 GitHub Stats
 
@@ -178,17 +251,31 @@ Digital system simulations and logic-based designs built using CircuitVerse to e
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true" />
+
+</div>
+
 ---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/yourusername)
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/yourusername)
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:your.email@example.com)
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
