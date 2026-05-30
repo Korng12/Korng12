@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Your Name 👋
+# Hi there, I'm Chantha Mengkong 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Student+Developer;Frontend+%26+Backend+Enthusiast;Flutter+Developer;System+Design+Learner;Building+Modern+Scalable+Applications" />
 
