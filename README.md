@@ -1,11 +1,6 @@
 # Hi there, I'm [Your Name] 👋 
 
-```javascript
-const developer = {
-    code: ["HTML", "CSS", "JS", "Node.js", "Flutter"],
-    status: "If it works, don't touch it. If it doesn't, refactor until it does.",
-    currentFocus: ["Scalable Backends", "System Design Architecture"]
-};
+<img src="https://media.giphy.com/media/.../giphy.gif" width="300"/>
 ## Tech Stack
 
 ### Frontend
